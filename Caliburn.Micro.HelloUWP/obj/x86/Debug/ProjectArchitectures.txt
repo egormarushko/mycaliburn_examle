@@ -1,0 +1,1 @@
+C:\Users\Егор\Documents\Taqtile\MyCaliburnExample\Caliburn.Micro\samples\Caliburn.Micro.HelloUWP\Caliburn.Micro.HelloUWP\Caliburn.Micro.HelloUWP.csproj;x86

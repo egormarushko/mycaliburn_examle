@@ -1,0 +1,16 @@
+C:\Users\Егор\Documents\Taqtile\MyCaliburnExample\Caliburn.Micro\samples\Caliburn.Micro.HelloUWP\Caliburn.Micro.HelloUWP\obj\ARM\Debug\App.g.i.cs
+C:\Users\Егор\Documents\Taqtile\MyCaliburnExample\Caliburn.Micro\samples\Caliburn.Micro.HelloUWP\Caliburn.Micro.HelloUWP\obj\ARM\Debug\App.g.cs
+C:\Users\Егор\Documents\Taqtile\MyCaliburnExample\Caliburn.Micro\samples\Caliburn.Micro.HelloUWP\Caliburn.Micro.HelloUWP\obj\ARM\Debug\Views\DeviceView.g.i.cs
+C:\Users\Егор\Documents\Taqtile\MyCaliburnExample\Caliburn.Micro\samples\Caliburn.Micro.HelloUWP\Caliburn.Micro.HelloUWP\obj\ARM\Debug\Views\DeviceView.g.cs
+C:\Users\Егор\Documents\Taqtile\MyCaliburnExample\Caliburn.Micro\samples\Caliburn.Micro.HelloUWP\Caliburn.Micro.HelloUWP\obj\ARM\Debug\Views\ShellView.g.i.cs
+C:\Users\Егор\Documents\Taqtile\MyCaliburnExample\Caliburn.Micro\samples\Caliburn.Micro.HelloUWP\Caliburn.Micro.HelloUWP\obj\ARM\Debug\Views\ShellView.g.cs
+C:\Users\Егор\Documents\Taqtile\MyCaliburnExample\Caliburn.Micro\samples\Caliburn.Micro.HelloUWP\Caliburn.Micro.HelloUWP\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Егор\Documents\Taqtile\MyCaliburnExample\Caliburn.Micro\samples\Caliburn.Micro.HelloUWP\Caliburn.Micro.HelloUWP\obj\ARM\Debug\App.xaml
+C:\Users\Егор\Documents\Taqtile\MyCaliburnExample\Caliburn.Micro\samples\Caliburn.Micro.HelloUWP\Caliburn.Micro.HelloUWP\obj\ARM\Debug\Views\DeviceView.DeviceFamily-Mobile.xaml
+C:\Users\Егор\Documents\Taqtile\MyCaliburnExample\Caliburn.Micro\samples\Caliburn.Micro.HelloUWP\Caliburn.Micro.HelloUWP\obj\ARM\Debug\Views\DeviceView.xaml
+C:\Users\Егор\Documents\Taqtile\MyCaliburnExample\Caliburn.Micro\samples\Caliburn.Micro.HelloUWP\Caliburn.Micro.HelloUWP\obj\ARM\Debug\Views\ShellView.xaml
+C:\Users\Егор\Documents\Taqtile\MyCaliburnExample\Caliburn.Micro\samples\Caliburn.Micro.HelloUWP\Caliburn.Micro.HelloUWP\obj\ARM\Debug\App.xbf
+C:\Users\Егор\Documents\Taqtile\MyCaliburnExample\Caliburn.Micro\samples\Caliburn.Micro.HelloUWP\Caliburn.Micro.HelloUWP\obj\ARM\Debug\Views\DeviceView.DeviceFamily-Mobile.xbf
+C:\Users\Егор\Documents\Taqtile\MyCaliburnExample\Caliburn.Micro\samples\Caliburn.Micro.HelloUWP\Caliburn.Micro.HelloUWP\obj\ARM\Debug\Views\DeviceView.xbf
+C:\Users\Егор\Documents\Taqtile\MyCaliburnExample\Caliburn.Micro\samples\Caliburn.Micro.HelloUWP\Caliburn.Micro.HelloUWP\obj\ARM\Debug\Views\ShellView.xbf
+C:\Users\Егор\Documents\Taqtile\MyCaliburnExample\Caliburn.Micro\samples\Caliburn.Micro.HelloUWP\Caliburn.Micro.HelloUWP\obj\ARM\Debug\XamlSaveStateFile.xml
